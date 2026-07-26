@@ -9,6 +9,8 @@ Aplikasi desktop berbasis Java Swing GUI yang digunakan untuk memproses transaks
 | Form Pemesanan | Struk Transaksi |
 | :---: | :---: |
 | Antarmuka input pilihan minuman, ukuran, tingkat gula, dan topping | Dialog pop-up berisi ringkasan pemesanan dan total bayar |
+<img width="453" height="189" alt="image" src="https://github.com/user-attachments/assets/9037a7b3-24cd-43b1-80db-fd248871ff39" />
+
 
 ---
 
